@@ -1,32 +1,28 @@
-name: Deploy to Shared Hosting via FTP
-
 on:
   push:
     branches:
       - main
 
 jobs:
-  deploy:
+  web-deploy:
+    name: 🎉 Deploy
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Install Composer dependencies
-      run: composer install --no-interaction --prefer-dist --optimize-autoloader
-
-    - name: Deploy to FTP Server
-      uses: SamKirkland/FTP-Deploy-Action@4.3.0
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v4
+    
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
-        server: ${{ secrets.FTP_SERVER }}
-        username: ${{ secrets.FTP_USERNAME }}
-        password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: ./  # The root directory of your PHP project
-        server-dir: /public_html/your-website-folder/  # The directory on your FTP server
+        server: ftpupload.net
+        username: ${{ secrets.ftp_username }}
+        password: ${{ secrets.ftp_password }}
+        server-dir: /htdocs/
         exclude: |
           .git*
           node_modules*
           vendor*
           *.md
           .env
+          .vscode
+          .github
