@@ -45,7 +45,7 @@
 		<header class="fixed-header">
 			<!-- logo start -->
 			<div class="header-logo">
-				<a href="index.html" class="header-logo__box js-pointer-large js-animsition-link">
+				<a href="index.php" class="header-logo__box js-pointer-large js-animsition-link">
 					<img class="header-logo__img" src="assets/images/logo/logo.png" alt="logo">
 				</a>
 			</div><!-- logo end -->
@@ -85,12 +85,12 @@
 						<!-- dropdown start -->
 						<ul class="menu-box dropdown js-dropdown">
 							<li class="nav-btn-box">
-								<a href="index.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="index.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Home">Home</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="home_landing.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="home_landing.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="One Page">One Page</span>
 								</a>
 							</li>
@@ -103,7 +103,7 @@
 
 					<!-- nav-btn-box start -->
 					<li class="nav-btn-box js-nav-bg-change">
-						<a href="about.html" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
+						<a href="about.php" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
 							<span class="nav-btn__inner" data-text="About">About</span>
 						</a>
 						<div class="nav-bg-box">
@@ -113,7 +113,7 @@
 
 					<!-- nav-btn-box start -->
 					<li class="nav-btn-box js-nav-bg-change">
-						<a href="services.html" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
+						<a href="services.php" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
 							<span class="nav-btn__inner" data-text="Services">Services</span>
 						</a>
 						<div class="nav-bg-box">
@@ -130,27 +130,27 @@
 						<!-- dropdown start -->
 						<ul class="menu-box dropdown js-dropdown">
 							<li class="nav-btn-box">
-								<a href="portfolio_fullscreen.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_fullscreen.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Fullscreen">Fullscreen</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="portfolio_carousel.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_carousel.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Carousel">Carousel</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="portfolio_grid-3-col.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_grid-3-col.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Grid 3 Col">Grid 3 Col</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="portfolio_flex-columns.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_flex-columns.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Flex Columns">Flex Columns</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="portfolio_creative-grid.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_creative-grid.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Creative Grid">Creative Grid</span>
 								</a>
 							</li>
@@ -162,37 +162,37 @@
 								<!-- dropdown 2-level start -->
 								<ul class="menu-box dropdown dropdown_2lvl js-dropdown-2lvl">
 									<li class="nav-btn-box">
-										<a href="project_01.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_01.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 1">Project 1</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_02.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_02.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 2">Project 2</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_03.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_03.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 3">Project 3</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_04.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_04.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 4">Project 4</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_05.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_05.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 5">Project 5</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_06.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_06.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 6">Project 6</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_07.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_07.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 7">Project 7</span>
 										</a>
 									</li>
@@ -214,12 +214,12 @@
 						<!-- dropdown start -->
 						<ul class="menu-box dropdown js-dropdown">
 							<li class="nav-btn-box">
-								<a href="blog.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="blog.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Blog">Blog</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="blog_sidebar.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="blog_sidebar.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Blog Sidebar">Blog Sidebar</span>
 								</a>
 							</li>
@@ -231,12 +231,12 @@
 								<!-- dropdown 2-level start -->
 								<ul class="menu-box dropdown dropdown_2lvl js-dropdown-2lvl">
 									<li class="nav-btn-box">
-										<a href="single-post.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="single-post.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Post">Post</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="single-post_sidebar.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="single-post_sidebar.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Post Sidebar">Post Sidebar</span>
 										</a>
 									</li>
@@ -251,7 +251,7 @@
 
 					<!-- nav-btn-box start -->
 					<li class="nav-btn-box js-nav-bg-change">
-						<a href="contact.html" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
+						<a href="contact.php" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
 							<span class="nav-btn__inner" data-text="Contact">Contact</span>
 						</a>
 						<div class="nav-bg-box">
@@ -333,12 +333,12 @@
 							<div class="swiper-wrapper">
 								<!-- swiper-slide start -->
 								<h2 class="swiper-slide d-flex flex-center-center text-center">
-									<a href="project_02.html" class="headline-l anim-stroke-fill-white js-pointer-large js-animsition-link" data-text="Lil Man">Lil Man</a>
+									<a href="project_02.php" class="headline-l anim-stroke-fill-white js-pointer-large js-animsition-link" data-text="Lil Man">Lil Man</a>
 								</h2><!-- swiper-slide end -->
 
 								<!-- swiper-slide start -->
 								<h2 class="swiper-slide d-flex flex-center-center text-center">
-									<a href="project_03.html" class="headline-l js-pointer-large js-animsition-link">
+									<a href="project_03.php" class="headline-l js-pointer-large js-animsition-link">
 										<span class="anim-stroke-fill-white" data-text="Matreshka">Matreshka</span><br>
 										<span class="anim-stroke-fill-white" data-text="Dolls">Dolls</span>
 									</a>
@@ -346,17 +346,17 @@
 
 								<!-- swiper-slide start -->
 								<h2 class="swiper-slide d-flex flex-center-center text-center">
-									<a href="project_04.html" class="headline-l anim-stroke-fill-white js-pointer-large js-animsition-link" data-text="Kei Yamada">Kei Yamada</a>
+									<a href="project_04.php" class="headline-l anim-stroke-fill-white js-pointer-large js-animsition-link" data-text="Kei Yamada">Kei Yamada</a>
 								</h2><!-- swiper-slide end -->
 
 								<!-- swiper-slide start -->
 								<h2 class="swiper-slide d-flex flex-center-center text-center">
-									<a href="project_05.html" class="headline-l anim-stroke-fill-white js-pointer-large js-animsition-link" data-text="Curology">Curology</a>
+									<a href="project_05.php" class="headline-l anim-stroke-fill-white js-pointer-large js-animsition-link" data-text="Curology">Curology</a>
 								</h2><!-- swiper-slide end -->
 
 								<!-- swiper-slide start -->
 								<h2 class="swiper-slide d-flex flex-center-center text-center">
-									<a href="project_01.html" class="headline-l js-pointer-large js-animsition-link">
+									<a href="project_01.php" class="headline-l js-pointer-large js-animsition-link">
 										<span class="anim-stroke-fill-white" data-text="Champion">Champion</span><br>
 										<span class="anim-stroke-fill-white" data-text="Training">Training</span>
 									</a>
@@ -364,12 +364,12 @@
 
 								<!-- swiper-slide start -->
 								<h2 class="swiper-slide d-flex flex-center-center text-center">
-									<a href="project_06.html" class="headline-l anim-stroke-fill-white js-pointer-large js-animsition-link" data-text="Sneakers">Sneakers</a>
+									<a href="project_06.php" class="headline-l anim-stroke-fill-white js-pointer-large js-animsition-link" data-text="Sneakers">Sneakers</a>
 								</h2><!-- swiper-slide end -->
 
 								<!-- swiper-slide start -->
 								<h2 class="swiper-slide d-flex flex-center-center text-center">
-									<a href="project_07.html" class="headline-l anim-stroke-fill-white js-pointer-large js-animsition-link" data-text="Black Bike">Black Bike</a>
+									<a href="project_07.php" class="headline-l anim-stroke-fill-white js-pointer-large js-animsition-link" data-text="Black Bike">Black Bike</a>
 								</h2><!-- swiper-slide end -->
 							</div><!-- swiper-wrapper end -->
 

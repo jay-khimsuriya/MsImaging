@@ -47,7 +47,7 @@
 			<header class="fixed-header landing-page-header">
 				<!-- logo start -->
 				<div class="header-logo">
-					<a href="index.html" class="header-logo__box js-pointer-large js-animsition-link">
+					<a href="index.php" class="header-logo__box js-pointer-large js-animsition-link">
 						<img class="header-logo__img" src="assets/images/logo/logo.png" alt="logo">
 					</a>
 				</div><!-- logo end -->
@@ -318,7 +318,7 @@
 
 								<!-- grid-item start -->
 								<div class="padding-top-90 grid-item-50-50-100 js-isotope-grid-item">
-									<a href="project_02.html" class="grid-margin-box d-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="0.6">
+									<a href="project_02.php" class="grid-margin-box d-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="0.6">
 										<!-- project img start -->
 										<div class="hidden-box">
 											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
@@ -342,7 +342,7 @@
 
 								<!-- grid-item start -->
 								<div class="padding-top-90 grid-item-50-50-100 js-isotope-grid-item">
-									<a href="project_01.html" class="grid-margin-box d-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="1.1">
+									<a href="project_01.php" class="grid-margin-box d-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="1.1">
 										<!-- project img start -->
 										<div class="hidden-box">
 											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
@@ -366,7 +366,7 @@
 
 								<!-- grid-item start -->
 								<div class="padding-top-90 grid-item-50-50-100 js-isotope-grid-item">
-									<a href="project_06.html" class="grid-margin-box d-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="0.3">
+									<a href="project_06.php" class="grid-margin-box d-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="0.3">
 										<!-- project img start -->
 										<div class="hidden-box">
 											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
@@ -390,7 +390,7 @@
 
 								<!-- grid-item start -->
 								<div class="padding-top-90 grid-item-50-50-100 js-isotope-grid-item">
-									<a href="project_04.html" class="grid-margin-box d-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="1">
+									<a href="project_04.php" class="grid-margin-box d-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="1">
 										<!-- project img start -->
 										<div class="hidden-box">
 											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
@@ -414,7 +414,7 @@
 
 								<!-- grid-item start -->
 								<div class="padding-top-90 grid-item-50-50-100 js-isotope-grid-item">
-									<a href="project_03.html" class="grid-margin-box d-block js-pointer-large js-animsition-link">
+									<a href="project_03.php" class="grid-margin-box d-block js-pointer-large js-animsition-link">
 										<!-- project img start -->
 										<div class="hidden-box">
 											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
@@ -438,7 +438,7 @@
 
 								<!-- grid-item start -->
 								<div class="padding-top-90 grid-item-50-50-100 js-isotope-grid-item">
-									<a href="project_05.html" class="grid-margin-box d-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="0.4">
+									<a href="project_05.php" class="grid-margin-box d-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="0.4">
 										<!-- project img start -->
 										<div class="hidden-box">
 											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
@@ -462,7 +462,7 @@
 
 								<!-- grid-item start -->
 								<div class="padding-top-90 grid-item-50-50-100 js-isotope-grid-item">
-									<a href="project_07.html" class="grid-margin-box d-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="1.2">
+									<a href="project_07.php" class="grid-margin-box d-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="1.2">
 										<!-- project img start -->
 										<div class="hidden-box">
 											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
@@ -993,7 +993,7 @@
 									<article class="four-columns padding-top-90">
 										<div class="column-l-r-margin-20">
 											<!-- post img start -->
-											<a href="single-post.html" class="d-block hidden-box js-pointer-large js-animsition-link scrollanim-activate" data-scroll>
+											<a href="single-post.php" class="d-block hidden-box js-pointer-large js-animsition-link scrollanim-activate" data-scroll>
 												<div data-scroll data-scroll-speed="-1.3">
 													<div class="anim-scale">
 														<img class="anim-scale__inner" src="assets/images/blog/anastasiya-pavlova-ONW1Acmp_aA-unsplash.jpg" alt="Post">
@@ -1003,7 +1003,7 @@
 											<!-- post content start -->
 											<div class="padding-top-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
 												<div class="anim-fade-to-left">
-													<a href="single-post.html" class="d-block margin-bottom-20 js-pointer-large js-animsition-link">
+													<a href="single-post.php" class="d-block margin-bottom-20 js-pointer-large js-animsition-link">
 														<h3 class="headline-xxxs text-color-black">Messenger bag<br>tile disrupt taxidermy</h3>
 														<p class="body-text-xs text-color-6d6d6d margin-top-10">Snackwave etsy yuccie mixtape ugh VHS cornhole polaroid. Mlkshk kinfolk stumptown synth, ugh chia YOLO...</p>
 													</a>
@@ -1028,7 +1028,7 @@
 									<article class="four-columns padding-top-90">
 										<div class="column-l-r-margin-20">
 											<!-- post img start -->
-											<a href="single-post.html" class="d-block hidden-box js-pointer-large js-animsition-link scrollanim-activate" data-scroll>
+											<a href="single-post.php" class="d-block hidden-box js-pointer-large js-animsition-link scrollanim-activate" data-scroll>
 												<div data-scroll data-scroll-speed="-1.3">
 													<div class="anim-scale">
 														<img class="anim-scale__inner" src="assets/images/blog/logan-weaver-Xa0I6XMMlxI-unsplash.jpg" alt="Post">
@@ -1038,7 +1038,7 @@
 											<!-- post content start -->
 											<div class="padding-top-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
 												<div class="anim-fade-to-left">
-													<a href="single-post.html" class="d-block margin-bottom-20 js-pointer-large js-animsition-link">
+													<a href="single-post.php" class="d-block margin-bottom-20 js-pointer-large js-animsition-link">
 														<h3 class="headline-xxxs text-color-black">Blue bottle palo<br>santo selvage</h3>
 														<p class="body-text-xs text-color-6d6d6d margin-top-10">Tattooed typewriter gluten-free cronut, church-key etsy affogato post-ironic hoodie tacos kale chips DIY yuccie...</p>
 													</a>
@@ -1063,7 +1063,7 @@
 									<article class="four-columns padding-top-90">
 										<div class="column-l-r-margin-20">
 											<!-- post img start -->
-											<a href="single-post.html" class="d-block hidden-box js-pointer-large js-animsition-link scrollanim-activate" data-scroll>
+											<a href="single-post.php" class="d-block hidden-box js-pointer-large js-animsition-link scrollanim-activate" data-scroll>
 												<div data-scroll data-scroll-speed="-1.3">
 													<div class="anim-scale">
 														<img class="anim-scale__inner" src="assets/images/blog/logan-weaver-irhk3yFdetw-unsplash.jpg" alt="Post">
@@ -1073,7 +1073,7 @@
 											<!-- post content start -->
 											<div class="padding-top-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
 												<div class="anim-fade-to-left">
-													<a href="single-post.html" class="d-block margin-bottom-20 js-pointer-large js-animsition-link">
+													<a href="single-post.php" class="d-block margin-bottom-20 js-pointer-large js-animsition-link">
 														<h3 class="headline-xxxs text-color-black">Shaman hell of next<br>level actually</h3>
 														<p class="body-text-xs text-color-6d6d6d margin-top-10">Aesthetic scenester before they sold out deep v, vaporware etsy health goth cronut pork belly brunch franzen master...</p>
 													</a>
@@ -1118,22 +1118,22 @@
 							<div class="four-columns padding-top-90">
 								<ul class="column-l-r-margin-10 list">
 									<li class="list__item">
-										<a href="index.html" class="footer-nav-btn js-pointer-small js-animsition-link">Home</a>
+										<a href="index.php" class="footer-nav-btn js-pointer-small js-animsition-link">Home</a>
 									</li>
 									<li class="list__item">
-										<a href="about.html" class="footer-nav-btn js-pointer-small js-animsition-link">About</a>
+										<a href="about.php" class="footer-nav-btn js-pointer-small js-animsition-link">About</a>
 									</li>
 									<li class="list__item">
-										<a href="services.html" class="footer-nav-btn js-pointer-small js-animsition-link">Services</a>
+										<a href="services.php" class="footer-nav-btn js-pointer-small js-animsition-link">Services</a>
 									</li>
 									<li class="list__item">
-										<a href="portfolio_fullscreen.html" class="footer-nav-btn js-pointer-small js-animsition-link">Portfolio</a>
+										<a href="portfolio_fullscreen.php" class="footer-nav-btn js-pointer-small js-animsition-link">Portfolio</a>
 									</li>
 									<li class="list__item">
-										<a href="blog.html" class="footer-nav-btn js-pointer-small js-animsition-link">Blog</a>
+										<a href="blog.php" class="footer-nav-btn js-pointer-small js-animsition-link">Blog</a>
 									</li>
 									<li class="list__item">
-										<a href="contact.html" class="footer-nav-btn js-pointer-small js-animsition-link">Contact</a>
+										<a href="contact.php" class="footer-nav-btn js-pointer-small js-animsition-link">Contact</a>
 									</li>
 								</ul>
 							</div><!-- column end -->

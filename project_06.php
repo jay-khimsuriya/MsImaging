@@ -45,7 +45,7 @@
 		<header class="fixed-header">
 			<!-- logo start -->
 			<div class="header-logo">
-				<a href="index.html" class="header-logo__box js-pointer-large js-animsition-link">
+				<a href="index.php" class="header-logo__box js-pointer-large js-animsition-link">
 					<img class="header-logo__img" src="assets/images/logo/logo.png" alt="logo">
 				</a>
 			</div><!-- logo end -->
@@ -85,12 +85,12 @@
 						<!-- dropdown start -->
 						<ul class="menu-box dropdown js-dropdown">
 							<li class="nav-btn-box">
-								<a href="index.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="index.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Home">Home</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="home_landing.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="home_landing.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="One Page">One Page</span>
 								</a>
 							</li>
@@ -103,7 +103,7 @@
 
 					<!-- nav-btn-box start -->
 					<li class="nav-btn-box js-nav-bg-change">
-						<a href="about.html" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
+						<a href="about.php" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
 							<span class="nav-btn__inner" data-text="About">About</span>
 						</a>
 						<div class="nav-bg-box">
@@ -113,7 +113,7 @@
 
 					<!-- nav-btn-box start -->
 					<li class="nav-btn-box js-nav-bg-change">
-						<a href="services.html" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
+						<a href="services.php" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
 							<span class="nav-btn__inner" data-text="Services">Services</span>
 						</a>
 						<div class="nav-bg-box">
@@ -130,27 +130,27 @@
 						<!-- dropdown start -->
 						<ul class="menu-box dropdown js-dropdown">
 							<li class="nav-btn-box">
-								<a href="portfolio_fullscreen.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_fullscreen.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Fullscreen">Fullscreen</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="portfolio_carousel.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_carousel.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Carousel">Carousel</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="portfolio_grid-3-col.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_grid-3-col.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Grid 3 Col">Grid 3 Col</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="portfolio_flex-columns.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_flex-columns.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Flex Columns">Flex Columns</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="portfolio_creative-grid.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_creative-grid.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Creative Grid">Creative Grid</span>
 								</a>
 							</li>
@@ -162,37 +162,37 @@
 								<!-- dropdown 2-level start -->
 								<ul class="menu-box dropdown dropdown_2lvl js-dropdown-2lvl">
 									<li class="nav-btn-box">
-										<a href="project_01.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_01.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 1">Project 1</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_02.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_02.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 2">Project 2</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_03.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_03.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 3">Project 3</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_04.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_04.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 4">Project 4</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_05.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_05.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 5">Project 5</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_06.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_06.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 6">Project 6</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_07.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_07.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 7">Project 7</span>
 										</a>
 									</li>
@@ -214,12 +214,12 @@
 						<!-- dropdown start -->
 						<ul class="menu-box dropdown js-dropdown">
 							<li class="nav-btn-box">
-								<a href="blog.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="blog.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Blog">Blog</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="blog_sidebar.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="blog_sidebar.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Blog Sidebar">Blog Sidebar</span>
 								</a>
 							</li>
@@ -231,12 +231,12 @@
 								<!-- dropdown 2-level start -->
 								<ul class="menu-box dropdown dropdown_2lvl js-dropdown-2lvl">
 									<li class="nav-btn-box">
-										<a href="single-post.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="single-post.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Post">Post</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="single-post_sidebar.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="single-post_sidebar.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Post Sidebar">Post Sidebar</span>
 										</a>
 									</li>
@@ -251,7 +251,7 @@
 
 					<!-- nav-btn-box start -->
 					<li class="nav-btn-box js-nav-bg-change">
-						<a href="contact.html" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
+						<a href="contact.php" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
 							<span class="nav-btn__inner" data-text="Contact">Contact</span>
 						</a>
 						<div class="nav-bg-box">
@@ -272,14 +272,14 @@
 					<section id="up" class="pos-rel hidden-box" data-scroll-section>
 						<div class="page-head-footer-overlay-fix" data-scroll data-scroll-repeat>
 							<!-- bg-parallax -->
-							<div class="bg-parallax" style="background-image:url(assets/images/portfolio/project_02/main.jpg)" data-scroll data-scroll-speed="-1.5"></div>
+							<div class="bg-parallax" style="background-image:url(assets/images/portfolio/project_06/main.jpg)" data-scroll data-scroll-speed="-1.5"></div>
 
 							<!-- flex-min-height-100vh start -->
 							<div class="flex-min-height-100vh">
 								<div class="padding-top-bottom-120 container text-center after-preloader-anim">
-									<h2 class="headline-xxl headline-uppercase anim-chars-fadein" data-splitting>Lil Man</h2>
+									<h2 class="headline-xxl headline-uppercase anim-chars-fadein" data-splitting>Sneakers</h2>
 									<div data-scroll data-scroll-speed="-0.4" data-scroll-position="top">
-										<div class="subhead-s subhead-uppercase anim-chars-blur" data-splitting>Photoshoot</div>
+										<div class="subhead-s subhead-uppercase anim-chars-blur" data-splitting>Marketing</div>
 									</div>
 								</div>
 							</div><!-- flex-min-height-100vh end -->
@@ -293,41 +293,41 @@
 						</div>
 					</section><!-- page head end -->
 
-					<!-- section-bg-light start -->
-					<section id="down" class="section-bg-light half-bg-borders-fix half-bg-borders-fix_only-bottom" data-scroll-section>
+					<!-- section-bg-dark start -->
+					<section id="down" class="section-bg-dark" data-scroll-section>
 						<!-- padding-top-bottom-120 start -->
 						<div class="padding-top-bottom-120">
 							<!-- marquee start -->
-							<div class="marquee headline-xl text-color-black hidden-box" data-duration="10000" data-gap="20">
-								Identity / Marketing / <span class="text-stroke-black">UX Design</span> /
-								Identity / Marketing / <span class="text-stroke-black">UX Design</span> /
-								Identity / Marketing / <span class="text-stroke-black">UX Design</span> /
+							<div class="marquee headline-xl hidden-box" data-duration="10000" data-gap="20">
+								Identity / Marketing / <span class="text-stroke-white">UX Design</span> /
+								Identity / Marketing / <span class="text-stroke-white">UX Design</span> /
+								Identity / Marketing / <span class="text-stroke-white">UX Design</span> /
 							</div><!-- marquee end -->
 
 							<!-- container start -->
-							<div class="container small padding-top-120">
+							<div class="container padding-top-120">
 								<!-- flex-container start -->
 								<div class="flex-container padding-top-70 padding-bottom-90 pos-rel">
 									<!-- anim-line-top -->
-									<div class="anim-line-top black" data-scroll data-scroll-offset="20%"></div>
+									<div class="anim-line-top" data-scroll data-scroll-offset="20%"></div>
 									<!-- column start -->
 									<div class="four-columns padding-top-20">
 										<div class="column-r-margin-20 scrollanim-activate" data-scroll data-scroll-offset="20%">
-											<h2 class="headline-xxxs text-color-black anim-fade-to-left">Project info</h2>
+											<h2 class="headline-xxxs anim-fade-to-left">Project info</h2>
 										</div>
 									</div><!-- column end -->
 									<!-- column start -->
 									<div class="eight-columns padding-top-20">
 										<div class="scrollanim-activate" data-scroll data-scroll-offset="20%">
-											<p class="body-text-s text-color-6d6d6d anim-fade-to-left tr-delay-01">Godard slow-carb chartreuse occupy, tumblr letterpress pok pok tattooed yr lyft yuccie kinfolk. IPhone kombucha shaman gastropub snackwave 90's lo-fi pug chillwave pok pok tofu. Swag deep v listicle roof party seitan man braid raclette church-key trust fund locavore vexillologist green juice raw denim tilde meh. Austin thundercats locavore taiyaki snackwave hoodie put a bird on it tattooed selvage kitsch ramps.</p>
+											<p class="body-text-s text-color-dadada anim-fade-to-left tr-delay-01">Godard slow-carb chartreuse occupy, tumblr letterpress pok pok tattooed yr lyft yuccie kinfolk. IPhone kombucha shaman gastropub snackwave 90's lo-fi pug chillwave pok pok tofu. Swag deep v listicle roof party seitan man braid raclette church-key trust fund locavore vexillologist green juice raw denim tilde meh. Austin thundercats locavore taiyaki snackwave hoodie put a bird on it tattooed selvage kitsch ramps.</p>
 										</div>
 									</div><!-- column end -->
 									<!-- column start -->
 									<div class="four-columns padding-top-60">
 										<div class="column-r-margin-20 scrollanim-activate" data-scroll data-scroll-offset="20%">
-											<h6 class="headline-xxxs text-color-black anim-fade-to-left">Platforms</h6>
+											<h6 class="headline-xxxs anim-fade-to-left">Platforms</h6>
 											<!-- list start -->
-											<ul class="list text-color-black padding-top-20">
+											<ul class="list padding-top-20">
 												<li class="list__item">
 													<p class="subhead-xs anim-fade-to-left tr-delay-01">Mobile</p>
 												</li>
@@ -343,9 +343,9 @@
 									<!-- column start -->
 									<div class="four-columns padding-top-60">
 										<div class="column-r-margin-20 scrollanim-activate" data-scroll data-scroll-offset="20%">
-											<h6 class="headline-xxxs text-color-black anim-fade-to-left">Awwwards</h6>
+											<h6 class="headline-xxxs anim-fade-to-left">Awwwards</h6>
 											<!-- list start -->
-											<ul class="list text-color-black padding-top-20">
+											<ul class="list padding-top-20">
 												<li class="list__item">
 													<p class="subhead-xs anim-fade-to-left tr-delay-01">Best Services</p>
 												</li>
@@ -361,9 +361,9 @@
 									<!-- column start -->
 									<div class="four-columns padding-top-60">
 										<div class="column-r-margin-20 scrollanim-activate" data-scroll data-scroll-offset="20%">
-											<h6 class="headline-xxxs text-color-black anim-fade-to-left">Our role</h6>
+											<h6 class="headline-xxxs anim-fade-to-left">Our role</h6>
 											<!-- list start -->
-											<ul class="list text-color-black padding-top-20">
+											<ul class="list padding-top-20">
 												<li class="list__item">
 													<p class="subhead-xs anim-fade-to-left tr-delay-01">UX/UI Design</p>
 												</li>
@@ -377,244 +377,228 @@
 										</div>
 									</div><!-- column end -->
 									<!-- anim-line-bottom -->
-									<div class="anim-line-bottom black" data-scroll data-scroll-offset="20%"></div>
+									<div class="anim-line-bottom" data-scroll data-scroll-offset="20%"></div>
 								</div><!-- flex-container end -->
 							</div><!-- container end -->
 
 							<!-- flex-container start -->
-							<div class="flex-container container small padding-top-100">
+							<div class="flex-container container padding-top-100">
 								<!-- column start -->
 								<div class="four-columns column-100-999 padding-top-20">
 									<div class="column-r-margin-20-999">
-										<h3 class="headline-xxs text-color-black anim-split-lines" data-scroll data-scroll-offset="20%">IPhone kombucha shaman gastropub</h3>
+										<h3 class="headline-xxs anim-split-lines" data-scroll data-scroll-offset="20%">IPhone kombucha shaman gastropub</h3>
 									</div>
 								</div><!-- column end -->
 								<!-- column start -->
 								<div class="eight-columns column-100-999 padding-top-20">
-									<p class="body-text-m text-color-6d6d6d anim-split-lines" data-scroll data-scroll-offset="20%">IPhone kombucha shaman gastropub snackwave 90's lo-fi pug chillwave pok pok tofu. Swag deep v listicle roof party seitan man braid raclette church-key trust fund locavore vexillologist green juice raw denim tilde meh. Austin thundercats locavore taiyaki snackwave hoodie put a bird on it tattooed selvage kitsch ramps. Godard slow-carb chartreuse occupy, tumblr letterpress pok pok tattooed yr lyft yuccie kinfolk.</p>
+									<p class="body-text-m text-color-dadada anim-split-lines" data-scroll data-scroll-offset="20%">IPhone kombucha shaman gastropub snackwave 90's lo-fi pug chillwave pok pok tofu. Swag deep v listicle roof party seitan man braid raclette church-key trust fund locavore vexillologist green juice raw denim tilde meh. Austin thundercats locavore taiyaki snackwave hoodie put a bird on it tattooed selvage kitsch ramps. Godard slow-carb chartreuse occupy, tumblr letterpress pok pok tattooed yr lyft yuccie kinfolk.</p>
 								</div><!-- column end -->
 							</div><!-- flex-container end -->
 						</div><!-- padding-top-bottom-120 end -->
-					</section><!-- section-bg-light end -->
+					</section><!-- section-bg-dark end -->
+
+					<!-- background start -->
+					<div class="hidden-box" data-scroll-section>
+						<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.5">
+							<img class="anim-opacity-scale" src="assets/images/portfolio/project_06/grailify-UwnvYQg-oYE-unsplash.jpg" alt="project image">
+						</div>
+					</div><!-- background end -->
 
 					<!-- section-bg-dark start -->
-					<div class="section-bg-dark half-bg-light" data-scroll-section>
-						<a href="assets/images/portfolio/project_02/karsten-winegeart--4m_O9iJlPo-unsplash.jpg" class="pos-rel container d-block hidden-box js-pointer-zoom js-photo-popup">
-							<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-								<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart--4m_O9iJlPo-unsplash.jpg" alt="project image">
-							</div>
-						</a>
-					</div><!-- section-bg-dark end -->
+					<section class="section-bg-dark" data-scroll-section>
+						<!-- container start -->
+						<div class="container padding-top-100 padding-bottom-120">
+							<!-- flex-container start -->
+							<div class="flex-container">
+								<!-- column start -->
+								<div class="four-columns column-100-999 padding-top-20">
+									<h2 class="headline-xxs max-width-300 anim-split-lines" data-scroll data-scroll-offset="30%">IPhone humblebrag kale chips</h2>
+								</div><!-- column end -->
 
-					<!-- section-bg-dark start -->
-					<div class="section-bg-dark half-bg-borders-fix" data-scroll-section>
-						<div class="padding-bottom-120">
+								<!-- column start -->
+								<div class="eight-columns column-100-999 padding-top-20">
+									<div class="column-l-margin-40-999">
+										<p class="body-text-m text-color-dadada anim-split-lines" data-scroll data-scroll-offset="30%">Brooklyn whatever chia deep v slow-carb lomo put a bird on. Austin fam chia cold-pressed raw denim. Retro jean shorts cronut lumbersexual mixtape hella you probably haven't heard of them austin williamsburg af mustache pinterest. Mixtape kinfolk cray, wolf palo santo brunch iPhone. 3 wolf moon microdosing scenester, tilde roof party affogato typewriter celiac echo park craft beer bicycle rights man braid trust fund four dollar toast gentrify. IPhone humblebrag kale chips hell of.</p>
+									</div>
+								</div><!-- column end -->
+							</div><!-- flex-container end -->
+
 							<div class="padding-top-120">
-								<a href="assets/images/portfolio/project_02/karsten-winegeart-ZT3raHRoTyY-unsplash.jpg" class="container d-block hidden-box js-pointer-zoom js-photo-popup">
+								<a href="assets/images/portfolio/project_06/braden-collum-9HI8UJMSdZA-unsplash.jpg" class="d-block hidden-box js-pointer-zoom js-photo-popup">
 									<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-										<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart-ZT3raHRoTyY-unsplash.jpg" alt="project image">
+										<img class="anim-opacity-scale" src="assets/images/portfolio/project_06/braden-collum-9HI8UJMSdZA-unsplash.jpg" alt="project image">
 									</div>
 								</a>
 							</div>
-
 							<div class="padding-top-120">
-								<a href="assets/images/portfolio/project_02/karsten-winegeart-IhQHW7HaGA8-unsplash.jpg" class="container d-block hidden-box js-pointer-zoom js-photo-popup">
+								<a href="assets/images/portfolio/project_06/fachry-zella-devandra-KvRy5S8hKPw-unsplash.jpg" class="d-block hidden-box js-pointer-zoom js-photo-popup">
 									<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-										<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart-IhQHW7HaGA8-unsplash.jpg" alt="project image">
+										<img class="anim-opacity-scale" src="assets/images/portfolio/project_06/fachry-zella-devandra-KvRy5S8hKPw-unsplash.jpg" alt="project image">
+									</div>
+								</a>
+							</div>
+						</div><!-- container end -->
+					</section><!-- section-bg-dark end -->
+
+					<!-- section-bg-light start -->
+					<section class="section-bg-light" data-scroll-section>
+						<!-- flex-min-height-100vh start -->
+						<div class="flex-min-height-100vh">
+							<!-- flex-container start -->
+							<div class="container flex-container padding-top-100 padding-bottom-120">
+								<!-- column start -->
+								<div class="four-columns column-100-999 padding-top-20">
+									<h2 class="headline-xxs text-color-black max-width-300 anim-split-lines" data-scroll data-scroll-offset="30%">Austin fam chia cold-pressed raw</h2>
+								</div><!-- column end -->
+
+								<!-- column start -->
+								<div class="eight-columns column-100-999 padding-top-20">
+									<div class="column-l-margin-40-999">
+										<p class="body-text-m text-color-6d6d6d anim-split-lines" data-scroll data-scroll-offset="30%">3 wolf moon microdosing scenester, tilde roof party affogato typewriter celiac echo park craft beer bicycle rights man braid trust fund four dollar toast gentrify. Mixtape kinfolk cray, wolf palo santo brunch iPhone. Retro jean shorts cronut lumbersexual mixtape hella you probably haven't heard of them austin williamsburg af mustache pinterest. IPhone humblebrag kale chips hell of. Brooklyn whatever chia deep v slow-carb lomo put a bird on. Austin fam chia cold-pressed raw denim.</p>
+									</div>
+								</div><!-- column end -->
+							</div><!-- flex-container end -->
+						</div><!-- flex-min-height-100vh end -->
+					</section><!-- section-bg-light end -->
+
+					<!-- background start -->
+					<div class="hidden-box" data-scroll-section>
+						<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.5">
+							<img class="anim-opacity-scale" src="assets/images/portfolio/project_06/whereslugo-ad047kyPBh8-unsplash.jpg" alt="project image">
+						</div>
+					</div><!-- background end -->
+
+					<!-- section-bg-light start -->
+					<div class="section-bg-light" data-scroll-section>
+						<div class="container padding-bottom-120">
+							<div class="padding-top-120">
+								<a href="assets/images/portfolio/project_06/paul-volkmer-updW-QUccFE-unsplash.jpg" class="d-block hidden-box js-pointer-zoom js-photo-popup">
+									<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
+										<img class="anim-opacity-scale" src="assets/images/portfolio/project_06/paul-volkmer-updW-QUccFE-unsplash.jpg" alt="project image">
+									</div>
+								</a>
+							</div>
+							<div class="padding-top-120">
+								<a href="assets/images/portfolio/project_06/taylor-smith-aDZ5YIuedQg-unsplash.jpg" class="d-block hidden-box js-pointer-zoom js-photo-popup">
+									<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
+										<img class="anim-opacity-scale" src="assets/images/portfolio/project_06/taylor-smith-aDZ5YIuedQg-unsplash.jpg" alt="project image">
+									</div>
+								</a>
+							</div>
+							<div class="padding-top-120">
+								<a href="assets/images/portfolio/project_06/jeremy-alford-08GOqekIW-4-unsplash.jpg" class="d-block hidden-box js-pointer-zoom js-photo-popup">
+									<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
+										<img class="anim-opacity-scale" src="assets/images/portfolio/project_06/jeremy-alford-08GOqekIW-4-unsplash.jpg" alt="project image">
 									</div>
 								</a>
 							</div>
 						</div>
-					</div><!-- section-bg-dark end -->
-
-					<!-- section-bg-light start -->
-					<div class="section-bg-light half-bg-dark" data-scroll-section>
-						<a href="assets/images/portfolio/project_02/karsten-winegeart-zljVCKgdZM4-unsplash.jpg" class="pos-rel container d-block hidden-box js-pointer-zoom js-photo-popup">
-							<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-								<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart-zljVCKgdZM4-unsplash.jpg" alt="project image">
-							</div>
-						</a>
 					</div><!-- section-bg-light end -->
 
-					<!-- section-bg-light start -->
-					<section class="section-bg-light half-bg-borders-fix" data-scroll-section>
-						<!-- padding-bottom-120 start -->
-						<div class="padding-bottom-120">
+					<!-- section-bg-dark start -->
+					<section class="section-bg-dark" data-scroll-section>
+						<!-- flex-min-height-100vh start -->
+						<div class="flex-min-height-100vh">
 							<!-- flex-container start -->
-							<div class="flex-container container small padding-top-100">
+							<div class="container flex-container padding-top-100 padding-bottom-120">
 								<!-- column start -->
 								<div class="four-columns column-100-999 padding-top-20">
-									<div class="column-r-margin-20-999">
-										<h3 class="headline-xxs text-color-black anim-split-lines" data-scroll data-scroll-offset="20%">IPhone kombucha shaman gastropub</h3>
-									</div>
+									<h2 class="headline-xxs max-width-300 anim-split-lines" data-scroll data-scroll-offset="30%">Retro jean shorts cronut lumbersexual</h2>
 								</div><!-- column end -->
+
 								<!-- column start -->
 								<div class="eight-columns column-100-999 padding-top-20">
-									<p class="body-text-m text-color-6d6d6d anim-split-lines" data-scroll data-scroll-offset="20%">IPhone kombucha shaman gastropub snackwave 90's lo-fi pug chillwave pok pok tofu. Swag deep v listicle roof party seitan man braid raclette church-key trust fund locavore vexillologist green juice raw denim tilde meh. Austin thundercats locavore taiyaki snackwave hoodie put a bird on it tattooed selvage kitsch ramps. Godard slow-carb chartreuse occupy, tumblr letterpress pok pok tattooed yr lyft yuccie kinfolk.</p>
+									<div class="column-l-margin-40-999">
+										<p class="body-text-m text-color-dadada anim-split-lines" data-scroll data-scroll-offset="30%">Mixtape kinfolk cray, wolf palo santo brunch iPhone. Retro jean shorts cronut lumbersexual mixtape hella you probably haven't heard of them austin williamsburg af mustache pinterest. 3 wolf moon microdosing scenester, tilde roof party affogato typewriter celiac echo park craft beer bicycle rights man braid trust fund four dollar toast gentrify. IPhone humblebrag kale chips hell of. Brooklyn whatever chia deep v slow-carb lomo put a bird on. Austin fam chia cold-pressed raw denim.</p>
+									</div>
 								</div><!-- column end -->
 							</div><!-- flex-container end -->
+						</div><!-- flex-min-height-100vh end -->
+					</section><!-- section-bg-dark end -->
 
-							<!-- js-isotope-grid-box start -->
-							<div class="js-isotope-grid-box container padding-top-60">
-								<!-- empty grid -->
-								<div class="empty-grid-1px-33-50-none js-isotope-grid-item"></div>
-								<div class="empty-grid-400px-33-none js-isotope-grid-item"></div>
-								<div class="empty-grid-200px-33-50-none js-isotope-grid-item"></div>
-
-								<!-- grid-item start -->
-								<div class="padding-top-60 grid-item-33-50-100 js-isotope-grid-item">
-									<div class="grid-margin-box">
-										<a href="assets/images/portfolio/project_02/karsten-winegeart-d5mzPmBV6nc-unsplash.jpg" class="d-block hidden-box js-pointer-zoom js-photo-popup">
-											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-												<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart-d5mzPmBV6nc-unsplash.jpg" alt="project image">
-											</div>
-										</a>
-									</div>
-								</div><!-- grid-item end -->
-
-								<!-- grid-item start -->
-								<div class="padding-top-60 grid-item-33-50-100 js-isotope-grid-item">
-									<div class="grid-margin-box">
-										<a href="assets/images/portfolio/project_02/karsten-winegeart-BJaqPaH6AGQ-unsplash.jpg" class="d-block hidden-box js-pointer-zoom js-photo-popup">
-											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-												<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart-BJaqPaH6AGQ-unsplash.jpg" alt="project image">
-											</div>
-										</a>
-									</div>
-								</div><!-- grid-item end -->
-
-								<!-- grid-item start -->
-								<div class="padding-top-60 grid-item-33-50-100 js-isotope-grid-item">
-									<div class="grid-margin-box">
-										<a href="assets/images/portfolio/project_02/karsten-winegeart-mftVVfdXomc-unsplash.jpg" class="d-block hidden-box js-pointer-zoom js-photo-popup">
-											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-												<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart-mftVVfdXomc-unsplash.jpg" alt="project image">
-											</div>
-										</a>
-									</div>
-								</div><!-- grid-item end -->
-
-								<!-- grid-item start -->
-								<div class="padding-top-60 grid-item-33-50-100 js-isotope-grid-item">
-									<div class="grid-margin-box">
-										<a href="assets/images/portfolio/project_02/karsten-winegeart-5-jX_6kqsaw-unsplash.jpg" class="d-block hidden-box js-pointer-zoom js-photo-popup">
-											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-												<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart-5-jX_6kqsaw-unsplash.jpg" alt="project image">
-											</div>
-										</a>
-									</div>
-								</div><!-- grid-item end -->
-
-								<!-- grid-item start -->
-								<div class="padding-top-60 grid-item-33-50-100 js-isotope-grid-item">
-									<div class="grid-margin-box">
-										<a href="assets/images/portfolio/project_02/karsten-winegeart--8Z6aYnlOKY-unsplash.jpg" class="d-block hidden-box js-pointer-zoom js-photo-popup">
-											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-												<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart--8Z6aYnlOKY-unsplash.jpg" alt="project image">
-											</div>
-										</a>
-									</div>
-								</div><!-- grid-item end -->
-
-								<!-- grid-item start -->
-								<div class="padding-top-60 grid-item-33-50-100 js-isotope-grid-item">
-									<div class="grid-margin-box">
-										<a href="assets/images/portfolio/project_02/karsten-winegeart-WaMMo0it6Vg-unsplash.jpg" class="d-block hidden-box js-pointer-zoom js-photo-popup">
-											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-												<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart-WaMMo0it6Vg-unsplash.jpg" alt="project image">
-											</div>
-										</a>
-									</div>
-								</div><!-- grid-item end -->
-
-								<!-- grid-item start -->
-								<div class="padding-top-60 grid-item-33-50-100 js-isotope-grid-item">
-									<div class="grid-margin-box">
-										<a href="assets/images/portfolio/project_02/karsten-winegeart-88lDyjdIDGw-unsplash.jpg" class="d-block hidden-box js-pointer-zoom js-photo-popup">
-											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-												<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart-88lDyjdIDGw-unsplash.jpg" alt="project image">
-											</div>
-										</a>
-									</div>
-								</div><!-- grid-item end -->
-
-								<!-- grid-item start -->
-								<div class="padding-top-60 grid-item-33-50-100 js-isotope-grid-item">
-									<div class="grid-margin-box">
-										<a href="assets/images/portfolio/project_02/karsten-winegeart-BVqQNu5J7qI-unsplash.jpg" class="d-block hidden-box js-pointer-zoom js-photo-popup">
-											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-												<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart-BVqQNu5J7qI-unsplash.jpg" alt="project image">
-											</div>
-										</a>
-									</div>
-								</div><!-- grid-item end -->
-							</div><!-- js-isotope-grid-box end -->
-
-							<!-- flex-container start -->
-							<div class="flex-container container small padding-top-100">
-								<!-- column start -->
-								<div class="four-columns column-100-999 padding-top-20">
-									<div class="column-r-margin-20-999">
-										<h3 class="headline-xxs text-color-black anim-split-lines" data-scroll data-scroll-offset="20%">IPhone kombucha shaman gastropub</h3>
-									</div>
-								</div><!-- column end -->
-								<!-- column start -->
-								<div class="eight-columns column-100-999 padding-top-20">
-									<p class="body-text-m text-color-6d6d6d anim-split-lines" data-scroll data-scroll-offset="20%">IPhone kombucha shaman gastropub snackwave 90's lo-fi pug chillwave pok pok tofu. Swag deep v listicle roof party seitan man braid raclette church-key trust fund locavore vexillologist green juice raw denim tilde meh. Austin thundercats locavore taiyaki snackwave hoodie put a bird on it tattooed selvage kitsch ramps. Godard slow-carb chartreuse occupy, tumblr letterpress pok pok tattooed yr lyft yuccie kinfolk.</p>
-								</div><!-- column end -->
-							</div><!-- flex-container end -->
-						</div><!-- padding-bottom-120 end -->
-					</section><!-- section-bg-light end -->
-
-					<!-- section-bg-dark start -->
-					<div class="section-bg-dark half-bg-light" data-scroll-section>
-						<a href="assets/images/portfolio/project_02/karsten-winegeart-2EUJ2JxWJRU-unsplash.jpg" class="pos-rel container d-block hidden-box js-pointer-zoom js-photo-popup">
-							<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-								<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart-2EUJ2JxWJRU-unsplash.jpg" alt="project image">
-							</div>
-						</a>
-					</div><!-- section-bg-dark end -->
-
-					<!-- section-bg-dark start -->
-					<div class="section-bg-dark half-bg-borders-fix" data-scroll-section>
-						<div class="padding-bottom-120">
-							<div class="padding-top-120">
-								<a href="assets/images/portfolio/project_02/karsten-winegeart-aGDvtArehQ4-unsplash.jpg" class="container d-block hidden-box js-pointer-zoom js-photo-popup">
-									<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-										<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart-aGDvtArehQ4-unsplash.jpg" alt="project image">
-									</div>
-								</a>
-							</div>
-
-							<div class="padding-top-120">
-								<a href="assets/images/portfolio/project_02/karsten-winegeart-nxFp7SVQuvY-unsplash.jpg" class="container d-block hidden-box js-pointer-zoom js-photo-popup">
-									<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-										<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart-nxFp7SVQuvY-unsplash.jpg" alt="project image">
-									</div>
-								</a>
-							</div>
-
-							<div class="padding-top-120">
-								<a href="assets/images/portfolio/project_02/karsten-winegeart-F1PDaeAyr1A-unsplash.jpg" class="container d-block hidden-box js-pointer-zoom js-photo-popup">
-									<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-										<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart-F1PDaeAyr1A-unsplash.jpg" alt="project image">
-									</div>
-								</a>
-							</div>
+					<!-- background start -->
+					<div class="hidden-box" data-scroll-section>
+						<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.5">
+							<img class="anim-opacity-scale" src="assets/images/portfolio/project_06/jordan-A5EUGGHqs4A-unsplash.jpg" alt="project image">
 						</div>
-					</div><!-- section-bg-dark end -->
+					</div><!-- background end -->
+
+					<!-- section-bg-dark start -->
+					<section class="section-bg-dark" data-scroll-section>
+						<!-- flex-min-height-100vh start -->
+						<div class="flex-min-height-100vh">
+							<!-- width-100perc start -->
+							<div class="width-100perc padding-top-100 padding-bottom-120">
+								<!-- flex-container start -->
+								<div class="flex-container container">
+									<!-- column start -->
+									<div class="four-columns column-100-999 padding-top-20">
+										<h2 class="headline-xxs max-width-300 anim-split-lines" data-scroll data-scroll-offset="30%">Trust fund four dollar toast gentrify</h2>
+									</div><!-- column end -->
+
+									<!-- column start -->
+									<div class="eight-columns column-100-999 padding-top-20">
+										<div class="column-l-margin-40-999">
+											<p class="body-text-m text-color-dadada anim-split-lines" data-scroll data-scroll-offset="30%">Mixtape kinfolk cray, wolf palo santo brunch iPhone. 3 wolf moon microdosing scenester, tilde roof party affogato typewriter celiac echo park craft beer bicycle rights man braid trust fund four dollar toast gentrify. IPhone humblebrag kale chips hell of. Brooklyn whatever chia deep v slow-carb lomo put a bird on. Austin fam chia cold-pressed raw denim. Retro jean shorts cronut lumbersexual mixtape hella you probably haven't heard of them austin williamsburg af mustache pinterest.</p>
+										</div>
+									</div><!-- column end -->
+								</div><!-- flex-container end -->
+
+								<!-- padding-top-120 start -->
+								<div class="padding-top-120">
+									<!-- js-2-view-slider start -->
+									<div class="js-2-view-slider padding-bottom-90 hidden-box pos-rel anim-slider-fade" data-scroll>
+										<!-- swiper-wrapper start -->
+										<div class="swiper-wrapper slider-scrollanim-activate" data-scroll>
+											<!-- swiper-slide start -->
+											<div class="swiper-slide">
+												<a href="assets/images/portfolio/project_06/maksim-larin-1vy2QcZd5FU-unsplash.jpg" class="anim-scale d-block js-photo-popup js-pointer-zoom">
+													<img class="anim-scale__inner" src="assets/images/portfolio/project_06/maksim-larin-1vy2QcZd5FU-unsplash.jpg" alt="project image">
+												</a>
+											</div><!-- swiper-slide end -->
+											<!-- swiper-slide start -->
+											<div class="swiper-slide">
+												<a href="assets/images/portfolio/project_06/maksim-larin-Ai356rggKvw-unsplash.jpg" class="anim-scale d-block js-photo-popup js-pointer-zoom">
+													<img class="anim-scale__inner" src="assets/images/portfolio/project_06/maksim-larin-Ai356rggKvw-unsplash.jpg" alt="project image">
+												</a>
+											</div><!-- swiper-slide end -->
+											<!-- swiper-slide start -->
+											<div class="swiper-slide">
+												<a href="assets/images/portfolio/project_06/maksim-larin-LtB12xWnkpw-unsplash.jpg" class="anim-scale d-block js-photo-popup js-pointer-zoom">
+													<img class="anim-scale__inner" src="assets/images/portfolio/project_06/maksim-larin-LtB12xWnkpw-unsplash.jpg" alt="project image">
+												</a>
+											</div><!-- swiper-slide end -->
+											<!-- swiper-slide start -->
+											<div class="swiper-slide">
+												<a href="assets/images/portfolio/project_06/maksim-larin-NOpsC3nWTzY-unsplash.jpg" class="anim-scale d-block js-photo-popup js-pointer-zoom">
+													<img class="anim-scale__inner" src="assets/images/portfolio/project_06/maksim-larin-NOpsC3nWTzY-unsplash.jpg" alt="project image">
+												</a>
+											</div><!-- swiper-slide end -->
+										</div><!-- swiper-wrapper end -->
+
+										<div class="container small pos-abs pos-bottom-center-0px">
+											<!-- swiper-button-prev start -->
+											<div class="swiper-button-prev-box">
+												<div class="swiper-button-prev"></div>
+											</div><!-- swiper-button-prev end -->
+											<!-- swiper-button-next start -->
+											<div class="swiper-button-next-box">
+												<div class="swiper-button-next"></div>
+											</div><!-- swiper-button-next end -->
+										</div>
+
+										<!-- swiper-pagination start -->
+										<div class="pagination-box">
+											<div class="swiper-pagination"></div>
+										</div><!-- swiper-pagination end -->
+									</div><!-- js-2-view-slider end -->
+								</div><!-- padding-top-120 end -->
+							</div><!-- width-100perc end -->
+						</div><!-- flex-min-height-100vh end -->
+					</section><!-- section-bg-dark end -->
 
 					<!-- section-bg-light start -->
-					<div class="section-bg-light half-bg-dark" data-scroll-section>
-						<a href="assets/images/portfolio/project_02/karsten-winegeart-ewfHXBcuFA0-unsplash.jpg" class="pos-rel container d-block hidden-box js-pointer-zoom js-photo-popup">
-							<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
-								<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/karsten-winegeart-ewfHXBcuFA0-unsplash.jpg" alt="project image">
-							</div>
-						</a>
-					</div><!-- section-bg-light end -->
-
-					<!-- section-bg-light start -->
-					<section class="section-bg-light half-bg-borders-fix half-bg-borders-fix_only-top" data-scroll-section>
+					<section class="section-bg-light" data-scroll-section>
 						<!-- flex-min-height-100vh start -->
 						<div class="flex-min-height-100vh">
 							<div class="container small padding-top-bottom-120">
@@ -636,11 +620,11 @@
 				<section class="section-bg-dark" data-scroll-section>
 					<div class="flex-min-height-100vh pos-rel" data-scroll data-scroll-speed="-4" data-scroll-position="bottom">
 						<div class="width-100perc padding-top-bottom-120 pos-rel">
-							<a href="project_03.html" class="container small d-block js-pointer-large js-animsition-link">
-								<video src="http://www.nurseitmukaytegin.com/envato-templates/videos/matryoshka-dolls.mp4" class="width-100perc" muted loop autoplay playsinline poster="assets/images/portfolio/project_03/main.jpg"></video>
+							<a href="project_07.php" class="container small d-block js-pointer-large js-animsition-link">
+								<img src="assets/images/portfolio/project_07/main.jpg" alt="project">
 							</a>
 							<div class="pos-abs pos-center-center width-100perc hidden-box text-color-mix-blend pointer-none">
-								<h2 class="marquee headline-xxxl headline-uppercase hidden-box" data-duration="10000" data-gap="20">Matreshka Dolls Matreshka Dolls Matreshka Dolls Matreshka Dolls Matreshka Dolls</h2>
+								<h2 class="marquee headline-xxxl headline-uppercase hidden-box" data-duration="10000" data-gap="20">Black Bike Black Bike Black Bike Black Bike Black Bike Black Bike Black Bike</h2>
 							</div>
 						</div>
 

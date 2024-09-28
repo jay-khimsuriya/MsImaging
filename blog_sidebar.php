@@ -45,7 +45,7 @@
 		<header class="fixed-header">
 			<!-- logo start -->
 			<div class="header-logo">
-				<a href="index.html" class="header-logo__box js-pointer-large js-animsition-link">
+				<a href="index.php" class="header-logo__box js-pointer-large js-animsition-link">
 					<img class="header-logo__img" src="assets/images/logo/logo.png" alt="logo">
 				</a>
 			</div><!-- logo end -->
@@ -85,12 +85,12 @@
 						<!-- dropdown start -->
 						<ul class="menu-box dropdown js-dropdown">
 							<li class="nav-btn-box">
-								<a href="index.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="index.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Home">Home</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="home_landing.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="home_landing.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="One Page">One Page</span>
 								</a>
 							</li>
@@ -103,7 +103,7 @@
 
 					<!-- nav-btn-box start -->
 					<li class="nav-btn-box js-nav-bg-change">
-						<a href="about.html" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
+						<a href="about.php" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
 							<span class="nav-btn__inner" data-text="About">About</span>
 						</a>
 						<div class="nav-bg-box">
@@ -113,7 +113,7 @@
 
 					<!-- nav-btn-box start -->
 					<li class="nav-btn-box js-nav-bg-change">
-						<a href="services.html" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
+						<a href="services.php" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
 							<span class="nav-btn__inner" data-text="Services">Services</span>
 						</a>
 						<div class="nav-bg-box">
@@ -130,27 +130,27 @@
 						<!-- dropdown start -->
 						<ul class="menu-box dropdown js-dropdown">
 							<li class="nav-btn-box">
-								<a href="portfolio_fullscreen.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_fullscreen.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Fullscreen">Fullscreen</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="portfolio_carousel.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_carousel.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Carousel">Carousel</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="portfolio_grid-3-col.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_grid-3-col.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Grid 3 Col">Grid 3 Col</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="portfolio_flex-columns.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_flex-columns.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Flex Columns">Flex Columns</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="portfolio_creative-grid.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_creative-grid.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Creative Grid">Creative Grid</span>
 								</a>
 							</li>
@@ -162,37 +162,37 @@
 								<!-- dropdown 2-level start -->
 								<ul class="menu-box dropdown dropdown_2lvl js-dropdown-2lvl">
 									<li class="nav-btn-box">
-										<a href="project_01.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_01.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 1">Project 1</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_02.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_02.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 2">Project 2</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_03.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_03.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 3">Project 3</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_04.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_04.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 4">Project 4</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_05.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_05.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 5">Project 5</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_06.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_06.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 6">Project 6</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_07.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_07.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 7">Project 7</span>
 										</a>
 									</li>
@@ -214,12 +214,12 @@
 						<!-- dropdown start -->
 						<ul class="menu-box dropdown js-dropdown">
 							<li class="nav-btn-box">
-								<a href="blog.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="blog.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Blog">Blog</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="blog_sidebar.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="blog_sidebar.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Blog Sidebar">Blog Sidebar</span>
 								</a>
 							</li>
@@ -231,12 +231,12 @@
 								<!-- dropdown 2-level start -->
 								<ul class="menu-box dropdown dropdown_2lvl js-dropdown-2lvl">
 									<li class="nav-btn-box">
-										<a href="single-post.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="single-post.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Post">Post</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="single-post_sidebar.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="single-post_sidebar.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Post Sidebar">Post Sidebar</span>
 										</a>
 									</li>
@@ -251,7 +251,7 @@
 
 					<!-- nav-btn-box start -->
 					<li class="nav-btn-box js-nav-bg-change">
-						<a href="contact.html" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
+						<a href="contact.php" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
 							<span class="nav-btn__inner" data-text="Contact">Contact</span>
 						</a>
 						<div class="nav-bg-box">
@@ -288,7 +288,7 @@
 									<!-- grid-item start -->
 									<article class="padding-top-90">
 										<!-- post img start -->
-										<a href="single-post.html" class="d-block hidden-box js-pointer-large js-animsition-link">
+										<a href="single-post.php" class="d-block hidden-box js-pointer-large js-animsition-link">
 											<div data-scroll data-scroll-speed="-1.3">
 												<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/blog/sour-moha-FFty6TZs2tE-unsplash.jpg)">
 													<img src="assets/images/blog/sour-moha-FFty6TZs2tE-unsplash.jpg" alt="Post">
@@ -298,7 +298,7 @@
 
 										<!-- post content start -->
 										<div class="padding-top-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-											<a href="single-post.html" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
+											<a href="single-post.php" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
 												<h3 class="headline-xxxs text-color-black">Shaman hell of next<br>level actually mumblecore</h3>
 												<p class="body-text-xs text-color-6d6d6d margin-top-10">Aesthetic scenester before they sold out deep v, vaporware etsy health goth cronut pork belly brunch franzen master cleanse keffiyeh kickstarter...</p>
 											</a>
@@ -320,7 +320,7 @@
 									<!-- grid-item start -->
 									<article class="padding-top-90">
 										<!-- post img start -->
-										<a href="single-post.html" class="d-block hidden-box js-pointer-large js-animsition-link">
+										<a href="single-post.php" class="d-block hidden-box js-pointer-large js-animsition-link">
 											<div data-scroll data-scroll-speed="-1.3">
 												<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/blog/anastasiya-pavlova-ONW1Acmp_aA-unsplash.jpg)">
 													<img src="assets/images/blog/anastasiya-pavlova-ONW1Acmp_aA-unsplash.jpg" alt="Post">
@@ -330,7 +330,7 @@
 
 										<!-- post content start -->
 										<div class="padding-top-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-											<a href="single-post.html" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
+											<a href="single-post.php" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
 												<h3 class="headline-xxxs text-color-black">Small batch freegan<br>XOXO dreamcatcher</h3>
 												<p class="body-text-xs text-color-6d6d6d margin-top-10">Cronut try-hard banh mi, retro narwhal lumbersexual kinfolk etsy iceland health goth freegan helvetica everyday carry fam...</p>
 											</a>
@@ -352,7 +352,7 @@
 									<!-- grid-item start -->
 									<article class="padding-top-90">
 										<!-- post img start -->
-										<a href="single-post.html" class="d-block hidden-box js-pointer-large js-animsition-link">
+										<a href="single-post.php" class="d-block hidden-box js-pointer-large js-animsition-link">
 											<div data-scroll data-scroll-speed="-1.3">
 												<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/blog/anna-elizabeth-eWkH5LV4TS4-unsplash.jpg)">
 													<img src="assets/images/blog/anna-elizabeth-eWkH5LV4TS4-unsplash.jpg" alt="Post">
@@ -362,7 +362,7 @@
 
 										<!-- post content start -->
 										<div class="padding-top-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-											<a href="single-post.html" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
+											<a href="single-post.php" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
 												<h3 class="headline-xxxs text-color-black">Blue bottle palo<br>santo selvage</h3>
 												<p class="body-text-xs text-color-6d6d6d margin-top-10">Tattooed typewriter gluten-free cronut, church-key etsy affogato post-ironic hoodie tacos kale chips DIY yuccie...</p>
 											</a>
@@ -384,7 +384,7 @@
 									<!-- grid-item start -->
 									<article class="padding-top-90">
 										<!-- post img start -->
-										<a href="single-post.html" class="d-block hidden-box js-pointer-large js-animsition-link">
+										<a href="single-post.php" class="d-block hidden-box js-pointer-large js-animsition-link">
 											<div data-scroll data-scroll-speed="-1.3">
 												<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/blog/beazy-d_If-VScyBY-unsplash.jpg)">
 													<img src="assets/images/blog/beazy-d_If-VScyBY-unsplash.jpg" alt="Post">
@@ -394,7 +394,7 @@
 
 										<!-- post content start -->
 										<div class="padding-top-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-											<a href="single-post.html" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
+											<a href="single-post.php" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
 												<h3 class="headline-xxxs text-color-black">Messenger bag subway<br>tile disrupt taxidermy</h3>
 												<p class="body-text-xs text-color-6d6d6d margin-top-10">Snackwave etsy yuccie mixtape ugh VHS cornhole polaroid. Mlkshk kinfolk stumptown synth, ugh chia YOLO chartreuse banjo pabst forage pitchfork...</p>
 											</a>
@@ -416,7 +416,7 @@
 									<!-- grid-item start -->
 									<article class="padding-top-90">
 										<!-- post img start -->
-										<a href="single-post.html" class="d-block hidden-box js-pointer-large js-animsition-link">
+										<a href="single-post.php" class="d-block hidden-box js-pointer-large js-animsition-link">
 											<div data-scroll data-scroll-speed="-1.3">
 												<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/blog/gregory-gregory-Ufquzn7Lcc4-unsplash.jpg)">
 													<img src="assets/images/blog/gregory-gregory-Ufquzn7Lcc4-unsplash.jpg" alt="Post">
@@ -426,7 +426,7 @@
 
 										<!-- post content start -->
 										<div class="padding-top-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-											<a href="single-post.html" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
+											<a href="single-post.php" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
 												<h3 class="headline-xxxs text-color-black">Cred flexitarian skateboard,<br>fam plaid ethical</h3>
 												<p class="body-text-xs text-color-6d6d6d margin-top-10">VHS next level four loko microdosing taiyaki thundercats tumblr neutra brunch locavore live-edge artisan pok pok hashtag. Keytar venmo poke shoreditch...</p>
 											</a>
@@ -448,7 +448,7 @@
 									<!-- grid-item start -->
 									<article class="padding-top-90">
 										<!-- post img start -->
-										<a href="single-post.html" class="d-block hidden-box js-pointer-large js-animsition-link">
+										<a href="single-post.php" class="d-block hidden-box js-pointer-large js-animsition-link">
 											<div data-scroll data-scroll-speed="-1.3">
 												<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/blog/hailey-wright-VOMNJq0CnZw-unsplash.jpg)">
 													<img src="assets/images/blog/hailey-wright-VOMNJq0CnZw-unsplash.jpg" alt="Post">
@@ -458,7 +458,7 @@
 
 										<!-- post content start -->
 										<div class="padding-top-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-											<a href="single-post.html" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
+											<a href="single-post.php" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
 												<h3 class="headline-xxxs text-color-black">Unicorn glossier tousled<br>cred typewriter</h3>
 												<p class="body-text-xs text-color-6d6d6d margin-top-10">Tote bag hell of taxidermy humblebrag distillery celiac tofu cloud bread pok pok vape sriracha leggings neutra. Mixtape plaid deep v tacos...</p>
 											</a>
@@ -480,7 +480,7 @@
 									<!-- grid-item start -->
 									<article class="padding-top-90">
 										<!-- post img start -->
-										<a href="single-post.html" class="d-block hidden-box js-pointer-large js-animsition-link">
+										<a href="single-post.php" class="d-block hidden-box js-pointer-large js-animsition-link">
 											<div data-scroll data-scroll-speed="-1.3">
 												<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/blog/jesse-hammer-X4LQmOa7QXM-unsplash.jpg)">
 													<img src="assets/images/blog/jesse-hammer-X4LQmOa7QXM-unsplash.jpg" alt="Post">
@@ -490,7 +490,7 @@
 
 										<!-- post content start -->
 										<div class="padding-top-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-											<a href="single-post.html" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
+											<a href="single-post.php" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
 												<h3 class="headline-xxxs text-color-black">Flannel butcher<br>forage XOXO iPhone</h3>
 												<p class="body-text-xs text-color-6d6d6d margin-top-10">Tousled taxidermy pok pok williamsburg. Stumptown meggings farm-to-table dreamcatcher kinfolk. Pop-up hexagon church-key blog roof party forage...</p>
 											</a>
@@ -512,7 +512,7 @@
 									<!-- grid-item start -->
 									<article class="padding-top-90">
 										<!-- post img start -->
-										<a href="single-post.html" class="d-block hidden-box js-pointer-large js-animsition-link">
+										<a href="single-post.php" class="d-block hidden-box js-pointer-large js-animsition-link">
 											<div data-scroll data-scroll-speed="-1.3">
 												<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/blog/karsten-winegeart-4QfPff4QwwI-unsplash.jpg)">
 													<img src="assets/images/blog/karsten-winegeart-4QfPff4QwwI-unsplash.jpg" alt="Post">
@@ -522,7 +522,7 @@
 
 										<!-- post content start -->
 										<div class="padding-top-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-											<a href="single-post.html" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
+											<a href="single-post.php" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
 												<h3 class="headline-xxxs text-color-black">Trust fund humblebrag<br>kitsch migas</h3>
 												<p class="body-text-xs text-color-6d6d6d margin-top-10">Blog tacos marfa health goth, locavore offal roof party. Vaporware cred squid gluten-free, cold-pressed trust fund intelligentsia cray...</p>
 											</a>
@@ -544,7 +544,7 @@
 									<!-- grid-item start -->
 									<article class="padding-top-90">
 										<!-- post img start -->
-										<a href="single-post.html" class="d-block hidden-box js-pointer-large js-animsition-link">
+										<a href="single-post.php" class="d-block hidden-box js-pointer-large js-animsition-link">
 											<div data-scroll data-scroll-speed="-1.3">
 												<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/blog/logan-weaver-irhk3yFdetw-unsplash.jpg)">
 													<img src="assets/images/blog/logan-weaver-irhk3yFdetw-unsplash.jpg" alt="Post">
@@ -554,7 +554,7 @@
 
 										<!-- post content start -->
 										<div class="padding-top-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-											<a href="single-post.html" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
+											<a href="single-post.php" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
 												<h3 class="headline-xxxs text-color-black">DIY iPhone trust fund<br>raclette vape</h3>
 												<p class="body-text-xs text-color-6d6d6d margin-top-10">Echo park humblebrag green juice cardigan lyft YOLO hexagon selvage iceland woke keytar deep v food truck man braid drinking vinegar...</p>
 											</a>
@@ -576,7 +576,7 @@
 									<!-- grid-item start -->
 									<article class="padding-top-90">
 										<!-- post img start -->
-										<a href="single-post.html" class="d-block hidden-box js-pointer-large js-animsition-link">
+										<a href="single-post.php" class="d-block hidden-box js-pointer-large js-animsition-link">
 											<div data-scroll data-scroll-speed="-1.3">
 												<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/blog/logan-weaver-Xa0I6XMMlxI-unsplash.jpg)">
 													<img src="assets/images/blog/logan-weaver-Xa0I6XMMlxI-unsplash.jpg" alt="Post">
@@ -586,7 +586,7 @@
 
 										<!-- post content start -->
 										<div class="padding-top-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-											<a href="single-post.html" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
+											<a href="single-post.php" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
 												<h3 class="headline-xxxs text-color-black">DIY tattooed affogato<br>pabst flannel glossier</h3>
 												<p class="body-text-xs text-color-6d6d6d margin-top-10">Banh mi bespoke glossier celiac banjo polaroid listicle. Ethical af fanny pack artisan. Venmo DIY messenger bag four dollar...</p>
 											</a>
@@ -608,7 +608,7 @@
 									<!-- grid-item start -->
 									<article class="padding-top-90">
 										<!-- post img start -->
-										<a href="single-post.html" class="d-block hidden-box js-pointer-large js-animsition-link">
+										<a href="single-post.php" class="d-block hidden-box js-pointer-large js-animsition-link">
 											<div data-scroll data-scroll-speed="-1.3">
 												<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/blog/sour-moha-v4KCFgCVVR0-unsplash.jpg)">
 													<img src="assets/images/blog/sour-moha-v4KCFgCVVR0-unsplash.jpg" alt="Post">
@@ -618,7 +618,7 @@
 
 										<!-- post content start -->
 										<div class="padding-top-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-											<a href="single-post.html" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
+											<a href="single-post.php" class="margin-bottom-20 anim-fade-to-left js-pointer-large js-animsition-link">
 												<h3 class="headline-xxxs text-color-black">Thundercats wolf tumeric,<br>hexagon chia woke</h3>
 												<p class="body-text-xs text-color-6d6d6d margin-top-10">Knausgaard jianbing air plant venmo jean shorts four dollar toast cronut hoodie direct trade before they sold out leggings pork belly biodiesel...</p>
 											</a>
@@ -721,7 +721,7 @@
 												<h4 class="subhead-s text-color-black text-center padding-bottom-30">Recent posts</h4>
 												<!-- post start -->
 												<div class="padding-bottom-60">
-													<a href="single-post.html" class="d-block hover-box js-pointer-large js-animsition-link">
+													<a href="single-post.php" class="d-block hover-box js-pointer-large js-animsition-link">
 														<div class="hidden-box">
 															<img class="hover-img-scale" src="assets/images/blog/jesse-hammer-X4LQmOa7QXM-unsplash.jpg" alt="Post">
 														</div>
@@ -731,7 +731,7 @@
 
 												<!-- post start -->
 												<div class="padding-bottom-60">
-													<a href="single-post.html" class="d-block hover-box js-pointer-large js-animsition-link">
+													<a href="single-post.php" class="d-block hover-box js-pointer-large js-animsition-link">
 														<div class="hidden-box">
 															<img class="hover-img-scale" src="assets/images/blog/gregory-gregory-Ufquzn7Lcc4-unsplash.jpg" alt="Post">
 														</div>
@@ -741,7 +741,7 @@
 
 												<!-- post start -->
 												<div class="padding-bottom-60">
-													<a href="single-post.html" class="d-block hover-box js-pointer-large js-animsition-link">
+													<a href="single-post.php" class="d-block hover-box js-pointer-large js-animsition-link">
 														<div class="hidden-box">
 															<img class="hover-img-scale" src="assets/images/blog/logan-weaver-irhk3yFdetw-unsplash.jpg" alt="Post">
 														</div>
@@ -845,22 +845,22 @@
 							<div class="four-columns padding-top-90">
 								<ul class="column-l-r-margin-10 list">
 									<li class="list__item">
-										<a href="index.html" class="footer-nav-btn js-pointer-small js-animsition-link">Home</a>
+										<a href="index.php" class="footer-nav-btn js-pointer-small js-animsition-link">Home</a>
 									</li>
 									<li class="list__item">
-										<a href="about.html" class="footer-nav-btn js-pointer-small js-animsition-link">About</a>
+										<a href="about.php" class="footer-nav-btn js-pointer-small js-animsition-link">About</a>
 									</li>
 									<li class="list__item">
-										<a href="services.html" class="footer-nav-btn js-pointer-small js-animsition-link">Services</a>
+										<a href="services.php" class="footer-nav-btn js-pointer-small js-animsition-link">Services</a>
 									</li>
 									<li class="list__item">
-										<a href="portfolio_fullscreen.html" class="footer-nav-btn js-pointer-small js-animsition-link">Portfolio</a>
+										<a href="portfolio_fullscreen.php" class="footer-nav-btn js-pointer-small js-animsition-link">Portfolio</a>
 									</li>
 									<li class="list__item">
-										<a href="blog.html" class="footer-nav-btn js-pointer-small js-animsition-link">Blog</a>
+										<a href="blog.php" class="footer-nav-btn js-pointer-small js-animsition-link">Blog</a>
 									</li>
 									<li class="list__item">
-										<a href="contact.html" class="footer-nav-btn js-pointer-small js-animsition-link">Contact</a>
+										<a href="contact.php" class="footer-nav-btn js-pointer-small js-animsition-link">Contact</a>
 									</li>
 								</ul>
 							</div><!-- column end -->

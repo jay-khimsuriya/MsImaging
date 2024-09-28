@@ -45,7 +45,7 @@
 		<header class="fixed-header">
 			<!-- logo start -->
 			<div class="header-logo">
-				<a href="index.html" class="header-logo__box js-pointer-large js-animsition-link">
+				<a href="index.php" class="header-logo__box js-pointer-large js-animsition-link">
 					<img class="header-logo__img" src="assets/images/logo/logo.png" alt="logo">
 				</a>
 			</div><!-- logo end -->
@@ -85,12 +85,12 @@
 						<!-- dropdown start -->
 						<ul class="menu-box dropdown js-dropdown">
 							<li class="nav-btn-box">
-								<a href="index.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="index.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Home">Home</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="home_landing.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="home_landing.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="One Page">One Page</span>
 								</a>
 							</li>
@@ -103,7 +103,7 @@
 
 					<!-- nav-btn-box start -->
 					<li class="nav-btn-box js-nav-bg-change">
-						<a href="about.html" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
+						<a href="about.php" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
 							<span class="nav-btn__inner" data-text="About">About</span>
 						</a>
 						<div class="nav-bg-box">
@@ -113,7 +113,7 @@
 
 					<!-- nav-btn-box start -->
 					<li class="nav-btn-box js-nav-bg-change">
-						<a href="services.html" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
+						<a href="services.php" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
 							<span class="nav-btn__inner" data-text="Services">Services</span>
 						</a>
 						<div class="nav-bg-box">
@@ -130,27 +130,27 @@
 						<!-- dropdown start -->
 						<ul class="menu-box dropdown js-dropdown">
 							<li class="nav-btn-box">
-								<a href="portfolio_fullscreen.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_fullscreen.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Fullscreen">Fullscreen</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="portfolio_carousel.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_carousel.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Carousel">Carousel</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="portfolio_grid-3-col.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_grid-3-col.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Grid 3 Col">Grid 3 Col</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="portfolio_flex-columns.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_flex-columns.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Flex Columns">Flex Columns</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="portfolio_creative-grid.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="portfolio_creative-grid.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Creative Grid">Creative Grid</span>
 								</a>
 							</li>
@@ -162,37 +162,37 @@
 								<!-- dropdown 2-level start -->
 								<ul class="menu-box dropdown dropdown_2lvl js-dropdown-2lvl">
 									<li class="nav-btn-box">
-										<a href="project_01.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_01.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 1">Project 1</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_02.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_02.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 2">Project 2</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_03.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_03.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 3">Project 3</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_04.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_04.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 4">Project 4</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_05.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_05.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 5">Project 5</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_06.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_06.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 6">Project 6</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="project_07.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="project_07.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Project 7">Project 7</span>
 										</a>
 									</li>
@@ -214,12 +214,12 @@
 						<!-- dropdown start -->
 						<ul class="menu-box dropdown js-dropdown">
 							<li class="nav-btn-box">
-								<a href="blog.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="blog.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Blog">Blog</span>
 								</a>
 							</li>
 							<li class="nav-btn-box">
-								<a href="blog_sidebar.html" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
+								<a href="blog_sidebar.php" class="nav-btn dropdown-2lvl-hidden-btn js-animsition-link js-pointer-large">
 									<span class="nav-btn__inner" data-text="Blog Sidebar">Blog Sidebar</span>
 								</a>
 							</li>
@@ -231,12 +231,12 @@
 								<!-- dropdown 2-level start -->
 								<ul class="menu-box dropdown dropdown_2lvl js-dropdown-2lvl">
 									<li class="nav-btn-box">
-										<a href="single-post.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="single-post.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Post">Post</span>
 										</a>
 									</li>
 									<li class="nav-btn-box">
-										<a href="single-post_sidebar.html" class="nav-btn js-animsition-link js-pointer-large">
+										<a href="single-post_sidebar.php" class="nav-btn js-animsition-link js-pointer-large">
 											<span class="nav-btn__inner" data-text="Post Sidebar">Post Sidebar</span>
 										</a>
 									</li>
@@ -251,7 +251,7 @@
 
 					<!-- nav-btn-box start -->
 					<li class="nav-btn-box js-nav-bg-change">
-						<a href="contact.html" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
+						<a href="contact.php" class="nav-btn dropdown-hidden-btn js-animsition-link js-pointer-large">
 							<span class="nav-btn__inner" data-text="Contact">Contact</span>
 						</a>
 						<div class="nav-bg-box">
@@ -268,219 +268,218 @@
 			<div class="js-animsition-overlay" data-animsition-overlay="true">
 				<!-- main start -->
 				<main class="main-content">
-					<!-- projects start -->
+					<!-- portfolio start -->
 					<section id="up" class="section-bg-dark" data-scroll-section>
-						<!-- padding-top-120 start -->
-						<div class="padding-top-120 padding-bottom-150">
+						<!-- padding-top-bottom-150 start -->
+						<div class="padding-top-bottom-150">
 							<!-- title start -->
-							<div class="pos-rel">
-								<h2 class="title-offset big-head container full z-index-2 text-stroke-white pointer-none padding-top-30 after-preloader-anim">
-									<span class="d-block" data-scroll data-scroll-speed="4" data-scroll-direction="horizontal" data-scroll-position="top">
-										<span class="anim-chars-fadein" data-splitting>Projects</span>
+							<div class="container small">
+								<h2 class="headline-xxxxl headline-uppercase after-preloader-anim">
+									<span class="d-block">
+										<span class="anim-chars-fadein" data-splitting>We design the</span>
+									</span>
+									<span class="d-block" data-scroll data-scroll-speed="-0.4" data-scroll-position="top">
+										<span class="anim-chars-fadein" data-splitting>best creative</span>
+									</span>
+									<span class="d-block" data-scroll data-scroll-speed="-0.8" data-scroll-position="top">
+										<span class="anim-chars-fadein" data-splitting>projects</span>
 									</span>
 								</h2>
 							</div><!-- title end -->
 
-							<!-- flex-container start -->
-							<div class="container flex-container">
-								<!-- column start -->
-								<div class="seven-columns padding-top-90">
-									<div class="column-l-r-margin-20">
-										<a href="project_01.html" class="d-block js-animsition-link js-pointer-large" data-scroll data-scroll-speed="0.3">
-											<!-- project title start -->
-											<div class="padding-bottom-20 scrollanim-activate" data-scroll data-scroll-offset="30%">
-												<h3 class="headline-xxs anim-split-lines">Champion Training</h3>
-											</div><!-- project title end -->
-											<!-- project img start -->
-											<div class="hidden-box">
-												<div data-scroll data-scroll-speed="-1.3">
-													<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/portfolio/project_01/karsten-winegeart-WO_th3WRJvw-unsplash.jpg)">
-														<img src="assets/images/portfolio/project_01/karsten-winegeart-WO_th3WRJvw-unsplash.jpg" alt="Project">
-													</div>
-												</div>
-											</div><!-- project img end -->
-											<!-- project description start -->
-											<div class="padding-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-												<div class="d-flex flex-wrap flex-justify-between margin-top-10">
-													<span class="subhead-xxs subhead-uppercase margin-top-10 anim-fade-to-left">Photoshoot</span>
-													<span class="subhead-xxs subhead-uppercase margin-top-10 anim-fade-to-left tr-delay-01">2020</span>
-												</div>
-												<div class="anim-line-bottom"></div>
-											</div><!-- project description end -->
+							<!-- container start -->
+							<div class="container">
+								<!-- flex-container start -->
+								<div class="flex-container flex-align-center padding-top-70">
+									<!-- column start -->
+									<div class="five-columns padding-top-20">
+										<a href="project_02.php" class="hidden-box d-block js-pointer-large js-animsition-link">
+											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
+												<img class="anim-opacity-scale" src="assets/images/portfolio/project_02/lilman.jpg" alt="Project">
+											</div>
 										</a>
-									</div>
-								</div><!-- column end -->
+									</div><!-- column end -->
+									<!-- column start -->
+									<div class="seven-columns padding-top-20">
+										<a href="project_02.php" class="d-inline-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="1">
+											<div class="scrollanim-activate" data-scroll data-scroll-offset="20%">
+												<div class="column-l-margin-20 hidden-box">
+													<div class="subhead-s anim-text-slide">Photoshoot</div>
+												</div>
+												<div class="hidden-box text-left-offset">
+													<h3 class="headline-xl anim-text-slide tr-delay-03 hover-stroke-fill-white" data-text="Lil Man">Lil Man</h3>
+												</div>
+											</div>
+										</a>
+									</div><!-- column end -->
+								</div><!-- flex-container end -->
 
-								<!-- column start -->
-								<div class="five-columns padding-top-90">
-									<div class="column-l-r-margin-20 portfolio-top-offset">
-										<a href="project_02.html" class="d-block js-animsition-link js-pointer-large" data-scroll data-scroll-speed="0.9">
-											<!-- project title start -->
-											<div class="padding-bottom-20 scrollanim-activate" data-scroll data-scroll-offset="30%">
-												<h3 class="headline-xxs anim-split-lines">Lil Man</h3>
-											</div><!-- project title end -->
-											<!-- project img start -->
-											<div class="hidden-box">
-												<div data-scroll data-scroll-speed="-1.2">
-													<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/portfolio/project_02/lilman.jpg)">
-														<img src="assets/images/portfolio/project_02/lilman.jpg" alt="Project">
-													</div>
+								<!-- flex-container start -->
+								<div class="flex-container flex-align-center reverse padding-top-70">
+									<!-- column start -->
+									<div class="seven-columns padding-top-20 text-right z-index-2">
+										<a href="project_01.php" class="d-inline-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="1">
+											<div class="scrollanim-activate" data-scroll data-scroll-offset="20%">
+												<div class="column-r-margin-20 hidden-box">
+													<div class="subhead-s anim-text-slide">Photoshoot</div>
 												</div>
-											</div><!-- project img end -->
-											<!-- project description start -->
-											<div class="padding-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-												<div class="d-flex flex-wrap flex-justify-between margin-top-10">
-													<span class="subhead-xxs subhead-uppercase margin-top-10 anim-fade-to-left">Photoshoot</span>
-													<span class="subhead-xxs subhead-uppercase margin-top-10 anim-fade-to-left tr-delay-01">2020</span>
+												<div class="text-right-offset">
+													<h3 class="headline-xl hover-box">
+														<span class="hidden-box d-block">
+															<span class="anim-text-slide tr-delay-03 hover-stroke-fill-white" data-text="Champion">Champion</span>
+														</span>
+														<span class="hidden-box d-block">
+															<span class="anim-text-slide tr-delay-05 hover-stroke-fill-white" data-text="Training">Training</span>
+														</span>
+													</h3>
 												</div>
-												<div class="anim-line-bottom"></div>
-											</div><!-- project description end -->
+											</div>
 										</a>
-									</div>
-								</div><!-- column end -->
+									</div><!-- column end -->
+									<!-- column start -->
+									<div class="five-columns padding-top-20">
+										<a href="project_01.php" class="hidden-box d-block js-pointer-large js-animsition-link">
+											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
+												<img class="anim-opacity-scale" src="assets/images/portfolio/project_01/karsten-winegeart-8RYgfbiTSVU-unsplash.jpg" alt="Project">
+											</div>
+										</a>
+									</div><!-- column end -->
+								</div><!-- flex-container end -->
 
-								<!-- column start -->
-								<div class="one-offset eight-columns padding-top-90">
-									<div class="column-l-r-margin-20">
-										<a href="project_03.html" class="d-block js-animsition-link js-pointer-large">
-											<!-- project title start -->
-											<div class="padding-bottom-20 scrollanim-activate" data-scroll data-scroll-offset="30%">
-												<h3 class="headline-xxs anim-split-lines">Matreshka Dolls</h3>
-											</div><!-- project title end -->
-											<!-- project img start -->
-											<div class="hidden-box">
-												<div data-scroll data-scroll-speed="-1.2">
-													<div class="anim-video-reveal" data-scroll>
-														<video src="http://www.nurseitmukaytegin.com/envato-templates/videos/matryoshka-dolls.mp4" class="width-100perc" muted loop autoplay playsinline poster="assets/images/portfolio/project_03/main.jpg"></video>
-													</div>
-												</div>
-											</div><!-- project img end -->
-											<!-- project description start -->
-											<div class="padding-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-												<div class="d-flex flex-wrap flex-justify-between margin-top-10">
-													<span class="subhead-xxs subhead-uppercase margin-top-10 anim-fade-to-left">Product design</span>
-													<span class="subhead-xxs subhead-uppercase margin-top-10 anim-fade-to-left tr-delay-01">2020</span>
-												</div>
-												<div class="anim-line-bottom"></div>
-											</div><!-- project description end -->
+								<!-- flex-container start -->
+								<div class="flex-container flex-align-center padding-top-70">
+									<!-- column start -->
+									<div class="five-columns padding-top-20">
+										<a href="project_03.php" class="hidden-box d-block js-pointer-large js-animsition-link">
+											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.2">
+												<video src="http://www.nurseitmukaytegin.com/envato-templates/videos/matryoshka-dolls.mp4" class="width-100perc anim-opacity-scale" muted loop autoplay playsinline poster="assets/images/portfolio/project_03/main.jpg"></video>
+											</div>
 										</a>
-									</div>
-								</div><!-- column end -->
+									</div><!-- column end -->
+									<!-- column start -->
+									<div class="seven-columns padding-top-20">
+										<a href="project_03.php" class="d-inline-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="1">
+											<div class="scrollanim-activate" data-scroll data-scroll-offset="20%">
+												<div class="column-l-margin-20 hidden-box">
+													<div class="subhead-s anim-text-slide">Product design</div>
+												</div>
+												<div class="text-left-offset">
+													<h3 class="headline-xl hover-box">
+														<span class="hidden-box d-block">
+															<span class="anim-text-slide tr-delay-03 hover-stroke-fill-white" data-text="Matreshka">Matreshka</span>
+														</span>
+														<span class="hidden-box d-block">
+															<span class="anim-text-slide tr-delay-05 hover-stroke-fill-white" data-text="Dolls">Dolls</span>
+														</span>
+													</h3>
+												</div>
+											</div>
+										</a>
+									</div><!-- column end -->
+								</div><!-- flex-container end -->
 
-								<!-- column start -->
-								<div class="five-columns padding-top-90">
-									<div class="column-l-r-margin-20 portfolio-top-offset">
-										<a href="project_06.html" class="d-block js-animsition-link js-pointer-large" data-scroll data-scroll-speed="0.3">
-											<!-- project title start -->
-											<div class="padding-bottom-20 scrollanim-activate" data-scroll data-scroll-offset="30%">
-												<h3 class="headline-xxs anim-split-lines">Sneakers</h3>
-											</div><!-- project title end -->
-											<!-- project img start -->
-											<div class="hidden-box">
-												<div data-scroll data-scroll-speed="-1.2">
-													<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/portfolio/project_06/sneakers.jpg)">
-														<img src="assets/images/portfolio/project_06/sneakers.jpg" alt="Project">
-													</div>
+								<!-- flex-container start -->
+								<div class="flex-container flex-align-center reverse padding-top-70">
+									<!-- column start -->
+									<div class="seven-columns padding-top-20 text-right z-index-2">
+										<a href="project_04.php" class="d-inline-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="1">
+											<div class="scrollanim-activate" data-scroll data-scroll-offset="20%">
+												<div class="column-r-margin-20 hidden-box">
+													<div class="subhead-s anim-text-slide">Photoshoot</div>
 												</div>
-											</div><!-- project img end -->
-											<!-- project description start -->
-											<div class="padding-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-												<div class="d-flex flex-wrap flex-justify-between margin-top-10">
-													<span class="subhead-xxs subhead-uppercase margin-top-10 anim-fade-to-left">Marketing</span>
-													<span class="subhead-xxs subhead-uppercase margin-top-10 anim-fade-to-left tr-delay-01">2020</span>
+												<div class="hidden-box text-right-offset">
+													<h3 class="headline-xl anim-text-slide tr-delay-03 hover-stroke-fill-white" data-text="Kei Yamada">Kei Yamada</h3>
 												</div>
-												<div class="anim-line-bottom"></div>
-											</div><!-- project description end -->
+											</div>
 										</a>
-									</div>
-								</div><!-- column end -->
+									</div><!-- column end -->
+									<!-- column start -->
+									<div class="five-columns padding-top-20">
+										<a href="project_04.php" class="hidden-box d-block js-pointer-large js-animsition-link">
+											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
+												<img class="anim-opacity-scale" src="assets/images/portfolio/project_04/keiyamada.jpg" alt="Project">
+											</div>
+										</a>
+									</div><!-- column end -->
+								</div><!-- flex-container end -->
 
-								<!-- column start -->
-								<div class="seven-columns padding-top-90">
-									<div class="column-l-r-margin-20">
-										<a href="project_04.html" class="d-block js-animsition-link js-pointer-large" data-scroll data-scroll-speed="0.8">
-											<!-- project title start -->
-											<div class="padding-bottom-20 scrollanim-activate" data-scroll data-scroll-offset="30%">
-												<h3 class="headline-xxs anim-split-lines">Kei Yamada</h3>
-											</div><!-- project title end -->
-											<!-- project img start -->
-											<div class="hidden-box">
-												<div data-scroll data-scroll-speed="-1.3">
-													<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/portfolio/project_04/keiyamada-2.jpg)">
-														<img src="assets/images/portfolio/project_04/keiyamada-2.jpg" alt="Project">
-													</div>
-												</div>
-											</div><!-- project img end -->
-											<!-- project description start -->
-											<div class="padding-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-												<div class="d-flex flex-wrap flex-justify-between margin-top-10">
-													<span class="subhead-xxs subhead-uppercase margin-top-10 anim-fade-to-left">Photoshoot</span>
-													<span class="subhead-xxs subhead-uppercase margin-top-10 anim-fade-to-left tr-delay-01">2020</span>
-												</div>
-												<div class="anim-line-bottom"></div>
-											</div><!-- project description end -->
+								<!-- flex-container start -->
+								<div class="flex-container flex-align-center padding-top-70">
+									<!-- column start -->
+									<div class="five-columns padding-top-20">
+										<a href="project_05.php" class="hidden-box d-block js-pointer-large js-animsition-link">
+											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
+												<img class="anim-opacity-scale" src="assets/images/portfolio/project_05/curology-sR1oAhAT_Uw-unsplash.jpg" alt="Project">
+											</div>
 										</a>
-									</div>
-								</div><!-- column end -->
+									</div><!-- column end -->
+									<!-- column start -->
+									<div class="seven-columns padding-top-20">
+										<a href="project_05.php" class="d-inline-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="1">
+											<div class="scrollanim-activate" data-scroll data-scroll-offset="20%">
+												<div class="column-l-margin-20 hidden-box">
+													<div class="subhead-s anim-text-slide">Branding</div>
+												</div>
+												<div class="hidden-box text-left-offset">
+													<h3 class="headline-xl anim-text-slide tr-delay-03 hover-stroke-fill-white" data-text="Curology">Curology</h3>
+												</div>
+											</div>
+										</a>
+									</div><!-- column end -->
+								</div><!-- flex-container end -->
 
-								<!-- column start -->
-								<div class="three-offset eight-columns padding-top-90">
-									<div class="column-l-r-margin-20">
-										<a href="project_05.html" class="d-block js-animsition-link js-pointer-large" data-scroll data-scroll-speed="0.6">
-											<!-- project title start -->
-											<div class="padding-bottom-20 scrollanim-activate" data-scroll data-scroll-offset="30%">
-												<h3 class="headline-xxs anim-split-lines">Curology</h3>
-											</div><!-- project title end -->
-											<!-- project img start -->
-											<div class="hidden-box">
-												<div data-scroll data-scroll-speed="-1.2">
-													<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/portfolio/project_05/curology-ZIihTgf5uGg-unsplash.jpg)">
-														<img src="assets/images/portfolio/project_05/curology-ZIihTgf5uGg-unsplash.jpg" alt="Project">
-													</div>
+								<!-- flex-container start -->
+								<div class="flex-container flex-align-center reverse padding-top-70">
+									<!-- column start -->
+									<div class="seven-columns padding-top-20 text-right z-index-2">
+										<a href="project_07.php" class="d-inline-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="1">
+											<div class="scrollanim-activate" data-scroll data-scroll-offset="20%">
+												<div class="column-r-margin-20 hidden-box">
+													<div class="subhead-s anim-text-slide">Photoshoot</div>
 												</div>
-											</div><!-- project img end -->
-											<!-- project description start -->
-											<div class="padding-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-												<div class="d-flex flex-wrap flex-justify-between margin-top-10">
-													<span class="subhead-xxs subhead-uppercase margin-top-10 anim-fade-to-left">Branding</span>
-													<span class="subhead-xxs subhead-uppercase margin-top-10 anim-fade-to-left tr-delay-01">2020</span>
+												<div class="hidden-box text-right-offset">
+													<h3 class="headline-xl anim-text-slide tr-delay-03 hover-stroke-fill-white" data-text="Black Bike">Black Bike</h3>
 												</div>
-												<div class="anim-line-bottom"></div>
-											</div><!-- project description end -->
+											</div>
 										</a>
-									</div>
-								</div><!-- column end -->
+									</div><!-- column end -->
+									<!-- column start -->
+									<div class="five-columns padding-top-20">
+										<a href="project_07.php" class="hidden-box d-block js-pointer-large js-animsition-link">
+											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.2">
+												<img class="anim-opacity-scale" src="assets/images/portfolio/project_07/black-bike.jpg" alt="Project">
+											</div>
+										</a>
+									</div><!-- column end -->
+								</div><!-- flex-container end -->
 
-								<!-- column start -->
-								<div class="seven-columns padding-top-90">
-									<div class="column-l-r-margin-20">
-										<a href="project_07.html" class="d-block js-animsition-link js-pointer-large" data-scroll data-scroll-speed="0.3">
-											<!-- project title start -->
-											<div class="padding-bottom-20 scrollanim-activate" data-scroll data-scroll-offset="30%">
-												<h3 class="headline-xxs anim-split-lines">Black Bike</h3>
-											</div><!-- project title end -->
-											<!-- project img start -->
-											<div class="hidden-box">
-												<div data-scroll data-scroll-speed="-1.3">
-													<div class="anim-img-reveal" data-scroll style="background-image:url(assets/images/portfolio/project_07/black-bike.jpg)">
-														<img src="assets/images/portfolio/project_07/black-bike.jpg" alt="Project">
-													</div>
-												</div>
-											</div><!-- project img end -->
-											<!-- project description start -->
-											<div class="padding-bottom-20 pos-rel scrollanim-activate line-scrollanim-activate" data-scroll data-scroll-offset="30%">
-												<div class="d-flex flex-wrap flex-justify-between margin-top-10">
-													<span class="subhead-xxs subhead-uppercase margin-top-10 anim-fade-to-left">Photoshoot</span>
-													<span class="subhead-xxs subhead-uppercase margin-top-10 anim-fade-to-left tr-delay-01">2020</span>
-												</div>
-												<div class="anim-line-bottom"></div>
-											</div><!-- project description end -->
+								<!-- flex-container start -->
+								<div class="flex-container flex-align-center padding-top-70">
+									<!-- column start -->
+									<div class="five-columns padding-top-20">
+										<a href="project_06.php" class="hidden-box d-block js-pointer-large js-animsition-link">
+											<div class="scrollanim-activate" data-scroll data-scroll-speed="-1.3">
+												<img class="anim-opacity-scale" src="assets/images/portfolio/project_06/sneakers.jpg" alt="Project">
+											</div>
 										</a>
-									</div>
-								</div><!-- column end -->
-							</div><!-- flex-container end -->
-						</div><!-- padding-top-120 end -->
-					</section><!-- projects end -->
+									</div><!-- column end -->
+									<!-- column start -->
+									<div class="seven-columns padding-top-20">
+										<a href="project_06.php" class="d-inline-block js-pointer-large js-animsition-link" data-scroll data-scroll-speed="1">
+											<div class="scrollanim-activate" data-scroll data-scroll-offset="20%">
+												<div class="column-l-margin-20 hidden-box">
+													<div class="subhead-s anim-text-slide">Marketing</div>
+												</div>
+												<div class="hidden-box text-left-offset">
+													<h3 class="headline-xl anim-text-slide tr-delay-03 hover-stroke-fill-white" data-text="Sneakers">Sneakers</h3>
+												</div>
+											</div>
+										</a>
+									</div><!-- column end -->
+								</div><!-- flex-container end -->
+							</div><!-- container end -->
+						</div><!-- padding-top-bottom-150 end -->
+					</section><!-- portfolio end -->
 				</main><!-- main end -->
 
 				<!-- footer start -->
@@ -502,22 +501,22 @@
 							<div class="four-columns padding-top-90">
 								<ul class="column-l-r-margin-10 list">
 									<li class="list__item">
-										<a href="index.html" class="footer-nav-btn text-color-black js-pointer-small js-animsition-link">Home</a>
+										<a href="index.php" class="footer-nav-btn text-color-black js-pointer-small js-animsition-link">Home</a>
 									</li>
 									<li class="list__item">
-										<a href="about.html" class="footer-nav-btn text-color-black js-pointer-small js-animsition-link">About</a>
+										<a href="about.php" class="footer-nav-btn text-color-black js-pointer-small js-animsition-link">About</a>
 									</li>
 									<li class="list__item">
-										<a href="services.html" class="footer-nav-btn text-color-black js-pointer-small js-animsition-link">Services</a>
+										<a href="services.php" class="footer-nav-btn text-color-black js-pointer-small js-animsition-link">Services</a>
 									</li>
 									<li class="list__item">
-										<a href="portfolio_fullscreen.html" class="footer-nav-btn text-color-black js-pointer-small js-animsition-link">Portfolio</a>
+										<a href="portfolio_fullscreen.php" class="footer-nav-btn text-color-black js-pointer-small js-animsition-link">Portfolio</a>
 									</li>
 									<li class="list__item">
-										<a href="blog.html" class="footer-nav-btn text-color-black js-pointer-small js-animsition-link">Blog</a>
+										<a href="blog.php" class="footer-nav-btn text-color-black js-pointer-small js-animsition-link">Blog</a>
 									</li>
 									<li class="list__item">
-										<a href="contact.html" class="footer-nav-btn text-color-black js-pointer-small js-animsition-link">Contact</a>
+										<a href="contact.php" class="footer-nav-btn text-color-black js-pointer-small js-animsition-link">Contact</a>
 									</li>
 								</ul>
 							</div><!-- column end -->
