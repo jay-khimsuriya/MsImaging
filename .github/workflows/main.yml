@@ -19,8 +19,8 @@ jobs:
         password: ${{ secrets.ftp_password }}
         server-dir: htdocs/
         exclude: |
-          .git*
-          node_modules*
+          .git
+          node_modules
           vendor*
           *.md
           .env
